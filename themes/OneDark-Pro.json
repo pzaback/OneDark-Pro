@@ -1,5 +1,6 @@
 {
   "name": "One Dark Pro",
+  "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -2133,9 +2134,6 @@
     "editorGutter.addedBackground": "#109868",
     "editorGutter.deletedBackground": "#9A353D",
     "editorGutter.modifiedBackground": "#948B60",
-    "editorOverviewRuler.addedBackground": "#109868",
-    "editorOverviewRuler.deletedBackground": "#9A353D",
-    "editorOverviewRuler.modifiedBackground": "#948B60",
     "editor.selectionBackground": "#67769660",
     "editor.selectionHighlightBackground": "#ffffff10",
     "editor.selectionHighlightBorder": "#dddddd",
@@ -2148,13 +2146,12 @@
     "editorCursor.background": "#ffffffc9",
     "editorCursor.foreground": "#528bff",
     "editorError.foreground": "#c24038",
-    "editorGroup.background": "#181a1f",
     "editorGroup.border": "#181a1f",
     "editorGroupHeader.tabsBackground": "#21252b",
     "editorHoverWidget.background": "#21252b",
     "editorHoverWidget.border": "#181a1f",
-    "editorIndentGuide.activeBackground": "#c8c8c859",
-    "editorIndentGuide.background": "#3b4048",
+    "editorIndentGuide.activeBackground1": "#c8c8c859",
+    "editorIndentGuide.background1": "#3b4048",
     "editorLineNumber.foreground": "#495162",
     "editorMarkerNavigation.background": "#21252b",
     "editorRuler.foreground": "#abb2bf26",
@@ -2243,6 +2240,5 @@
     "titleBar.inactiveForeground": "#6b717d",
     "tree.indentGuidesStroke": "#ffffff1d",
     "walkThrough.embeddedEditorBackground": "#2e3440",
-    "welcomePage.buttonHoverBackground": "#404754"
   }
 }
